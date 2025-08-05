@@ -1,6 +1,8 @@
 # QUARTO website template 
-
+add extra pages
+[About] ( target.md )
 describe your website here
+
 
 view this website online at <https://lsc-hubs.github.io/quarto-template>
 
